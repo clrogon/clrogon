@@ -1,45 +1,57 @@
-I’m an **IT Architect & Cybersecurity Practitioner** based in **Luanda, Angola** with a background in systems administration and secure solutions architecture. I build resilient IT systems, write about cybersecurity trends, and help teams bridge the gap between operational needs and strategic security outcomes.
+<!-- Optional banner -->
+# 👋 Hi, I’m Cláudio (clrogon)
 
-🔭 I’m currently focused on **enterprise security, cloud governance, and scalable IT architectures**.  
-🛡️ I regularly contribute to **InfoSec Connect**, writing clear, actionable insights on local and global infosec best practices.
+[![GitHub followers](https://img.shields.io/github/followers/clrogon?label=Follow&style=social)](https://github.com/clrogon?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/clrogon?style=social)](https://twitter.com/clrogon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/clrogon)
+[![Blog](https://img.shields.io/badge/Blog-InfoSec%20Connect-brightgreen?style=flat&logo=ghost)](https://www.infosecconnect.ao)
 
----
-
-## 🌍 What I Work On
-
-- 🧠 **Information Security & Risk Management**
-- ⚙️ **Systems Architecture & Integration**
-- ☁️ **Cloud Security & Governance**
-- 📊 **Automation, Monitoring & DevOps Enablement**
-- 📝 **Professional Blogging & Knowledge Sharing**
+I’m an **IT Architect & Cybersecurity Practitioner** based in **Luanda, Angola**. I specialize in **secure, scalable IT architectures**, automation, and knowledge sharing.
 
 ---
 
-## 🧪 Tech Stack & Tools
+## 🔭 What I’m Working On
 
-Here are some of the tools and technologies I work with frequently:
-
-**Languages:** `PowerShell`, `Bash`, `Python`  
-**Cloud & Infra:** `Azure`, `AWS`, `VMware`, `Active Directory`, `SCCM`, `Intune`  
-**Security & DevOps:** `SIEM`, `Endpoint Security`, `IAM`, `ManageEngine`, `GitHub Actions`
+- PowerShell tooling for **security automation & auditing**
+- Full‑stack SaaS apps with **GDPR & privacy compliance**
+- Hybrid cloud **infrastructure governance**
+- Security-focused **DevOps automation**
 
 ---
 
-## 📌 Highlights
+## 🛠️ Tech Stack & Tools
 
-🚀 Contributor at **InfoSec Connect – Angola’s cybersecurity blog**  
-🔐 Architecting secure deployments across hybrid cloud landscapes  
-📈 Experience with security automation and enterprise tooling integrations  
-📚 Frequent speaker and mentor on security fundamentals
+[![PowerShell](https://img.shields.io/badge/PowerShell-3399ff?style=flat&logo=powershell&logoColor=white)](https://github.com/clrogon)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)](https://github.com/clrogon)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/clrogon)
+[![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![SCCM](https://img.shields.io/badge/SCCM-0078d4?style=flat&logo=microsoft&logoColor=white)](https://github.com/clrogon)
+[![Intune](https://img.shields.io/badge/Intune-0078d4?style=flat&logo=microsoft&logoColor=white)](https://github.com/clrogon)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/clrogon)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **nzila-gym-manager** | Multi-tenant Gym Management SaaS built with React & Node.js ([Repo](https://github.com/clrogon/nzila-gym-manager)) |
+| **PowerShell Scripts** | Security & automation scripts for Windows & hybrid environments ([Repo](https://github.com/clrogon/PowerShell)) |
+| **NetworkScannerProject** | Network discovery & scanning utilities in PowerShell ([Repo](https://github.com/clrogon/NetworkScannerProject)) |
+| **Moduluxe** | Real estate platform, full-stack web app ([Repo](https://github.com/clrogon/Moduluxe)) |
+
+> Tip: Pin these repos on your GitHub profile to highlight your best work.
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 Blog: https://www.infosecconnect.ao  
-- LinkedIn: https://linkedin.com/in/clrogon  
-- Twitter: https://twitter.com/clrogon
+- 🌐 Blog: [InfoSec Connect](https://www.infosecconnect.ao)  
+- LinkedIn: [Cláudio Gonçalves](https://linkedin.com/in/clrogon)  
+- X / Twitter: [@clrogon](https://twitter.com/clrogon)  
+- Email: your.email@domain.com  
 
 ---
 
-Thanks for visiting my profile! Let’s build secure, scalable systems together 🚀
+Thanks for visiting my profile! 🚀
