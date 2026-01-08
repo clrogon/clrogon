@@ -23,8 +23,6 @@ Here are some of the tools and technologies I work with frequently:
 **Cloud & Infra:** `Azure`, `AWS`, `VMware`, `Active Directory`, `SCCM`, `Intune`  
 **Security & DevOps:** `SIEM`, `Endpoint Security`, `IAM`, `ManageEngine`, `GitHub Actions`
 
-*(Add badges here if you like, using https://shields.io/)*
-
 ---
 
 ## 📌 Highlights
@@ -41,20 +39,6 @@ Here are some of the tools and technologies I work with frequently:
 - 🌐 Blog: https://www.infosecconnect.ao  
 - LinkedIn: https://linkedin.com/in/clrogon  
 - Twitter: https://twitter.com/clrogon
-
----
-
-## 📌 Featured Projects
-
-Here are some repositories worth checking out:
-
-| Project | Description |
-|---------|-------------|
-| **SCCM ↔ ManageEngine Agent Audit** | Scripts and workflows for agent deployment and audit |
-| **Windows Hello for Business Audit Tools** | PowerShell tooling for hybrid identity environments |
-| **Cloud Security Templates** | Policy scripts & templates (Azure, AWS) |
-
-> Pin your **top 4–6 repos** to highlight these on your profile. :contentReference[oaicite:2]{index=2}
 
 ---
 
