@@ -50,8 +50,6 @@ I’m an **IT Architect & Cybersecurity Practitioner** based in **Luanda, Angola
 - 🌐 Blog: [InfoSec Connect](https://www.infosecconnect.ao)  
 - LinkedIn: [Cláudio Gonçalves](https://linkedin.com/in/clrogon)  
 - X / Twitter: [@clrogon](https://twitter.com/clrogon)  
-- Email: your.email@domain.com  
-
 ---
 
 Thanks for visiting my profile! 🚀
