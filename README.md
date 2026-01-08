@@ -1,10 +1,3 @@
-<!--
-  If you want a banner: add an image above,
-  e.g., https://github.com/your/banner.png
--->
-
-# 👋 Hi, I’m Claudio (clrogon)
-
 I’m an **IT Architect & Cybersecurity Practitioner** based in **Luanda, Angola** with a background in systems administration and secure solutions architecture. I build resilient IT systems, write about cybersecurity trends, and help teams bridge the gap between operational needs and strategic security outcomes.
 
 🔭 I’m currently focused on **enterprise security, cloud governance, and scalable IT architectures**.  
@@ -47,8 +40,7 @@ Here are some of the tools and technologies I work with frequently:
 
 - 🌐 Blog: https://www.infosecconnect.ao  
 - LinkedIn: https://linkedin.com/in/clrogon  
-- Twitter: https://twitter.com/clrogon (optional)  
-- Email: your.email@domain.com
+- Twitter: https://twitter.com/clrogon
 
 ---
 
