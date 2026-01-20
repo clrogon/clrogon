@@ -120,11 +120,24 @@ timeline
               : Advanced support & infrastructure optimization
     2013-2018 : Server Administrator @ Angola LNG
               : Critical infrastructure for 24/7 energy operations
-              : 30% efficiency improvement through automation
-    2018-Present : IT Solutions Architect @ Angola LNG
-                 : Enterprise architecture & cloud security
-                 : 11 assessments, 91% compliance, 0 critical incidents (2025)
-                 : SANS SEC540 certified (2025)
+              : AD cleanup, RAP remediation, 95%+ application availability
+              : WannaCry emergency response, Windows 10 pilot, SCCM 2016 migration
+              : LAD virtualization, patch management automation
+    2018-2020 : IT Architect Transition @ Angola LNG
+              : Digital Signatures (100% org adoption, 2020)
+              : MIM Stabilization & Wave 2 (2020)
+              : First ALNG Cybersecurity Training (2019)
+              : Chevron mentorship program (2019-2020)
+    2021-2022 : Performance Development Period
+              : Structured improvement through PIP, weekly reporting
+              : Architecture process formalization
+    2023-2024 : Sustained Turnaround
+              : "Visible improvements" noted in PPAP
+              : ISO 27001, AZ-500, BCS Architecture certifications
+    2025 : Excellence Achieved
+         : SANS SEC540 certified
+         : 11 assessments, 91% compliance, 0 critical incidents
+         : 90% deployment time reduction, mentorship program
 ```
 
 ---
@@ -341,7 +354,7 @@ const currentProjects = {
 - 📈 **Structured Growth** — Continuous improvement through documented learning and mentorship
 - 🌍 **Context Matters** — Global best practices adapted for local constraints and opportunities
 - 📸 **Visual Storytelling** — Documentation should tell the story of systems and their business value
-- 🎓 **Resilience Through Adversity** — My performance challenges in 2021-2022 taught me that systematic skill development and transparent communication matter as much as technical certifications
+- 🎓 **Resilience Through Adversity** — My 6-year journey from IT Architect transition (2018) to demonstrated excellence (2025) taught me that systematic skill development, transparent communication, and organizational investment in people matter as much as technical certifications. Early wins like Digital Signatures (100% org adoption, 2020) and ALNG's first Cybersecurity Training (2019) proved capability even during performance challenges (2020-2022). Structured mentorship from Chevron architects and commitment to continuous improvement led to sustained turnaround by 2023 and excellence in 2025.
 
 ---
 
@@ -407,23 +420,47 @@ Visit [InfoSec Connect](https://www.infosecconnect.ao) for articles on:
 ```plaintext
 2025  🎓 SANS SEC540 Certification | 11 Architecture Assessments | 91% Compliance
       📊 90% Deployment Time Reduction | 40+ Hours/Month Automation Savings
-      👥 Mentorship Program: 47.5% Skill Improvement
+      👥 Mentorship Program: 47.5% Skill Improvement | 99.9% Uptime
 
 2024  🏗️ BCS Architecture Certification | ISC2 CC Domains | SFIA Fundamentals
       📚 6+ LinkedIn Learning Courses | freeCodeCamp Beta Certification
 
 2023  🔐 ISO 27001 Foundation | AZ-500 | CCSK | 2x NAU Portugal Courses
-      📈 Performance Turnaround Year (PPAP rating: 2 - Fully Meets Expectations)
 
 2022  📚 Azure Training (AZ-305, AZ-303) | Structured Development Focus
       🔄 Performance Improvement Plan Implementation
 
-2021  🏢 Transition to IT Architect Role Solidification
-      📖 Learning Curve Navigation
+2021  🏢 Architecture Process Formalization | MIM DR Planning Goals
+      📖 Learning Curve Navigation | PIP Continuation
 
-2018  🚀 Promotion to IT Solutions Architect at Angola LNG
+2020  💾 Digital Signatures Implementation (100% org adoption)
+      🔧 MIM Stabilization (May) & Wave 2 Enhancements
+      📋 Architecture Reviews: Exchange, SCCM, Call Manager goals
+      
+2019  🚀 First Full Year as IT Architect
+      🎓 First ALNG Cybersecurity Training (90% quality rating)
+      👨‍🏫 Chevron Mentorship Started (David Killion, July 22)
+      🏗️ Architecture Reviews: GIMS, MIM completed
+      📊 PIP Sessions Began | TOGAF Failed
+
+2018  ⬆️ Promotion to IT Architect (September)
+
+2017  🛡️ WannaCry Emergency Response | SCCM 2016 Migration
+      💻 Windows 10 Pilot | SafeCom Deployment | DFS Redesign
+      📊 95%+ Application Availability Maintained
+
+2016  🔐 AD Cleanup & RAP Remediation | Audit Compliance Achieved
+      📦 LAD Virtualization | Patch Management Process Improvement
+      🔒 USB Media Block | RSI Guard Deployment | Sophos Reporting
+
+2015  📡 Monitoring Standardization (AD, AV, Messaging, Backup)
+      🎫 Smartbadge Certificate Notifications | Microsoft RAP Remediation
+
+2014  🏗️ IT Governance Foundation | Bechtel Systems Integration
+      🔧 Change Management & PMO Engagement Framework
 
 2013  ⚡ Joined Angola LNG as Server Administrator (Energy Sector Entry)
+      🎯 Exchange Monitoring, Patch Management, Policy Development
 
 2010  🏦 Transitioned from Banking (BFA) to Industrial Sector
 
