@@ -10,7 +10,7 @@
 
 **Senior IT Solutions Architect | SANS SEC540 Certified | Cloud Security & DevSecOps Specialist**
 
-20+ years building enterprise IT infrastructure and cloud security solutions across Angola's banking and energy sectors. Currently designing critical systems at [Angola LNG](https://www.angolalng.com/) that power 24/7 energy operations with 99.9% reliability.
+20+ years building enterprise IT infrastructure and cloud security solutions across Angola's banking and energy sectors. Currently designing critical systems at Angola LNG that power 24/7 energy operations with 99.9% reliability.
 
 ```yaml
 current_role:
@@ -24,6 +24,29 @@ current_role:
     - "IT/OT convergence"
     - "Digital transformation"
 ```
+
+---
+
+## 🧠 Architecture & Cognitive Profile
+
+I approach technology as a **system of decisions, constraints, and long-term consequences**, not as isolated tools or implementations.
+
+My working style is shaped by operating in **regulated, high-availability environments**, where clarity, correctness, and resilience matter more than speed or novelty.
+
+### How I Think
+
+- **Frameworks before fixes**
+- **Security as an architectural property**
+- **Systems thinking over task execution**
+- **Low tolerance for conceptual ambiguity**
+- **Automation with intent**
+
+### How I Solve Problems
+
+- Start with **problem framing**, constraints, and risk
+- Identify **failure modes before success paths**
+- Prefer **durable abstractions** over one-off fixes
+- Document decisions so systems outlive individuals
 
 ---
 
