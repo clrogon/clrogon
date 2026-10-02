@@ -1,5 +1,6 @@
 # Cláudio Gonçalves (@clrogon)
 
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://claudiogoncalves.ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clgon)
 [![Blog](https://img.shields.io/badge/Blog-InfoSec%20Connect-FF6B6B?style=flat&logo=ghost&logoColor=white)](https://www.infosecconnect.ao)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/clrogon/badges)
@@ -8,7 +9,9 @@
 
 **Senior IT Solutions Architect · Angola LNG · Cloud Security & DevSecOps**
 
-I design and govern enterprise IT architecture for Angola's largest LNG operation — a 24/7 industrial environment where a single system failure has real safety and production consequences. 20+ years of experience across Angola's energy and banking sectors, with a focus on cloud security, identity governance, and IT/OT convergence.
+I design and govern enterprise IT architecture for Angola's largest LNG operation — a 24/7 industrial environment where a single system failure has real safety and production consequences. 25+ years of experience across Angola's energy and banking sectors, with a focus on cloud security, identity governance, and IT/OT convergence.
+
+For the full career narrative (1999–2026, chapter by chapter): **[claudiogoncalves.ao](https://claudiogoncalves.ao)**
 
 ```yaml
 role:    IT Solutions Architect @ Angola LNG OPCO
@@ -108,6 +111,7 @@ timeline
 | **[NetworkScannerProject](https://github.com/clrogon/NetworkScannerProject)** | Enterprise network discovery, scanning & monitoring | Python · Network Protocols |
 | **[nzila-gym-manager](https://github.com/clrogon/nzila-gym-manager)** | Multi-tenant Gym Management SaaS — membership, billing, analytics | React · Node.js · MongoDB |
 | **[Moduluxe](https://github.com/clrogon/Moduluxe)** | Full-stack real estate management platform with CRM | TypeScript · React · Node.js |
+| **[Luandando-OS](https://github.com/clrogon/Luandando-OS)** | Bilingual (EN/PT) portfolio site — "Luandando OS" desktop-metaphor UI, 16-chapter career narrative (1999–2026). Live at [claudiogoncalves.ao](https://claudiogoncalves.ao) | Next.js 16 · TypeScript · React |
 
 ---
 
@@ -142,6 +146,7 @@ Portuguese-language content on cloud security, DevSecOps, and enterprise archite
 ## Connect
 
 <p align="center">
+  <a href="https://claudiogoncalves.ao"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/clgon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.infosecconnect.ao"><img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white" /></a>
   <a href="https://twitter.com/clrogon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -151,4 +156,4 @@ Portuguese-language content on cloud security, DevSecOps, and enterprise archite
 
 ---
 
-*Last updated: February 2026 · Open to collaboration on cloud security automation, enterprise architecture, and DevSecOps tooling for industrial environments.*
+*Last updated: October 2026 · Open to collaboration on cloud security automation, enterprise architecture, and DevSecOps tooling for industrial environments.*
